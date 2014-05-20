@@ -440,9 +440,7 @@ class TCHOOK_Public extends TCHOOK_Plugin {
     }
     return "Error in processing request";
   }
-<<<<<<< HEAD
- 
-=======
+
 
   /* member chart statistics  */
   function tcapi_get_member_chart_stats($handle, $track, $contestType) {
@@ -500,7 +498,6 @@ class TCHOOK_Public extends TCHOOK_Plugin {
 
     return "Error in processing request";
   }
->>>>>>> refs/heads/dev
 
   /* forum posts  */
   function tcapi_get_forum_posts() {
